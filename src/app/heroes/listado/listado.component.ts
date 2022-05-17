@@ -1,4 +1,4 @@
-import { Component} from '@angular/core';
+/*import { Component} from '@angular/core';
 import { ListadoComponent } from './listado.component';
 
 @Component({
@@ -18,3 +18,4 @@ export class ListadoComponent {
 
 
 }
+*/
